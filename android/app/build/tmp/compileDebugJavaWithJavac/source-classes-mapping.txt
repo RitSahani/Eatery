@@ -1,0 +1,17 @@
+com/eatery/MainApplication.java
+ com.eatery.MainApplication
+ com.eatery.MainApplication$1
+com/eatery/ReactNativeFlipper.java
+ com.eatery.ReactNativeFlipper
+ com.eatery.ReactNativeFlipper$1
+ com.eatery.ReactNativeFlipper$2
+ com.eatery.ReactNativeFlipper$2$1
+com/eatery/BuildConfig.java
+ com.eatery.BuildConfig
+com/eatery/MainActivity.java
+ com.eatery.MainActivity
+ com.eatery.MainActivity$1
+com/eatery/generated/BasePackageList.java
+ com.eatery.generated.BasePackageList
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
